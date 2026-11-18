@@ -1,0 +1,44 @@
+    outgoing_trips raw|Kd6Kw3|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.748 test=0.457 (6s)
+    outgoing_trips raw|Kd6Kw3|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.861 test=0.821 (20s)
+    outgoing_trips raw|Kd6Kw3|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.787 test=0.675 (5s)
+    outgoing_trips raw|Kd6Kw3|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.883 test=0.889 (163s)
+    outgoing_trips raw|Kd10Kw8|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.755 test=0.446 (2s)
+    outgoing_trips raw|Kd10Kw8|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.859 test=0.796 (19s)
+    outgoing_trips raw|Kd10Kw8|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.552 test=0.247 (4s)
+    outgoing_trips raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.887 test=0.892 (114s)
+    outgoing_trips log1p|Kd6Kw3|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.801 test=0.813 (6s)
+    outgoing_trips log1p|Kd6Kw3|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.817 test=0.690 (18s)
+    outgoing_trips log1p|Kd6Kw3|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.782 test=0.771 (3s)
+    outgoing_trips log1p|Kd6Kw3|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.856 test=0.874 (182s)
+    outgoing_trips log1p|Kd10Kw8|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.787 test=0.597 (2s)
+    outgoing_trips log1p|Kd10Kw8|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.819 test=0.685 (20s)
+    outgoing_trips log1p|Kd10Kw8|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.793 test=0.779 (4s)
+    outgoing_trips log1p|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.862 test=0.878 (189s)
+    incoming_trips raw|Kd6Kw3|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.747 test=0.449 (4s)
+    incoming_trips raw|Kd6Kw3|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.858 test=0.812 (18s)
+    incoming_trips raw|Kd6Kw3|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.530 test=0.230 (4s)
+    incoming_trips raw|Kd6Kw3|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.883 test=0.890 (177s)
+    incoming_trips raw|Kd10Kw8|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.753 test=0.444 (2s)
+    incoming_trips raw|Kd10Kw8|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.855 test=0.785 (20s)
+    incoming_trips raw|Kd10Kw8|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.546 test=0.242 (3s)
+    incoming_trips raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.886 test=0.892 (119s)
+    incoming_trips log1p|Kd6Kw3|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.799 test=0.819 (7s)
+    incoming_trips log1p|Kd6Kw3|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.816 test=0.694 (18s)
+    incoming_trips log1p|Kd6Kw3|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.782 test=0.784 (4s)
+    incoming_trips log1p|Kd6Kw3|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.856 test=0.875 (161s)
+    incoming_trips log1p|Kd10Kw8|(2, 0, 1)x(0, 0, 0)_0: val R2 H8=0.785 test=0.599 (1s)
+    incoming_trips log1p|Kd10Kw8|(2, 0, 0)x(1, 0, 0)_24: val R2 H8=0.817 test=0.689 (17s)
+    incoming_trips log1p|Kd10Kw8|(1, 1, 1)x(0, 0, 0)_0: val R2 H8=0.790 test=0.789 (4s)
+    incoming_trips log1p|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24: val R2 H8=0.860 test=0.878 (182s)
+        target  horizon                             config   val_R2       R2        MAE
+incoming_trips        1 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.958046 0.960633  75.985941
+incoming_trips        4 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.891958 0.896372 127.602472
+incoming_trips        8 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.885929 0.891906 130.845834
+incoming_trips       12 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.886205 0.892514 130.067818
+incoming_trips       24 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.885989 0.892237 130.284107
+outgoing_trips        1 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.956107 0.958270  78.440247
+outgoing_trips        4 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.892401 0.896153 127.810742
+outgoing_trips        8 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.886544 0.892022 130.996942
+outgoing_trips       12 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.886804 0.892605 130.310642
+outgoing_trips       24 raw|Kd10Kw8|(2, 0, 1)x(0, 1, 1)_24 0.886620 0.892368 130.498626
+-> results\test2024\dhr_system.csv
